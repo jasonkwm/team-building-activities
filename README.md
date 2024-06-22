@@ -1,10 +1,10 @@
 ## Indoor Like Outdoor Activities
 
 1. District 21 | [Tickets](https://d21.ioileisure.com.my/) | RM60/pax
-   (district)[/media]
+   !(district)[/media]
 2. ESCAPE @ Paradigm Mall | [Tickets](https://escape-pj.thecoolmelon.com/) | RM91.48/pax
 
-    (escape)[/media/escape-pj.png]
+    !(escape)[./media/escape-pj.png]
 
 ## Outdoor Activities
 
@@ -18,7 +18,7 @@
     1. Mini Golf
     2. Games and stuff
     3. mini golf
-       ![[Screenshot 2024-06-22 at 11.13.03 PM.png]]
+       ![[./media/Screenshot 2024-06-22 at 11.13.03 PM.png]]
 2. Bowling
 
 ## Workshops
