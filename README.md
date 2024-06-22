@@ -3,8 +3,7 @@
 1. District 21 | [Tickets](https://d21.ioileisure.com.my/) | RM60/pax
    !(district)[/media]
 2. ESCAPE @ Paradigm Mall | [Tickets](https://escape-pj.thecoolmelon.com/) | RM91.48/pax
-
-    !(escape)[./media/escape-pj.png]
+<img src="./media/escape-pj.png" width="720px"/>
 
 ## Outdoor Activities
 
