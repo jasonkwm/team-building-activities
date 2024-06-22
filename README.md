@@ -11,6 +11,7 @@
 2. [Taman Tugu Nature Education Program](https://tamantugu.my/things-to-do/nature-education-programme/) | RM65/PAX
 
  <img src="./media/tmn-tugu.png" width="720px"/>
+ 
 ## Indoor Activities
 
 1. [GameHub](https://says.com/my/lifestyle/new-indoor-game-hub-opens-in-1u-with-mini-golf-ping-pong-more) @ 1UTAMA | [Tickets](https://superpark.com.my/tickets/) | RM29/PAX
@@ -31,3 +32,5 @@
 
 3.  [Baking](https://www.goodtimesdiy.my/bake-studio-menu/) | RM95-150/PAX
     <img src="./media/baking.png" width="720px"/>
+
+4.  Terrarium | Out of reach for now
