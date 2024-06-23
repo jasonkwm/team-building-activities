@@ -20,6 +20,10 @@
 5. Picnic @ Saujana or Taman Botani | Potluck/Lunch
 6. Horse Riding?
 7. Boat/[Cruise Tasik Putrajaya](https://www.cruisetasikputrajaya.com/about-ctp.html) | RM27-30/PAX 45min-2Hours
+8. Farm in the City | Pet animals, release stress | 
+9. Genting theme park | RM126-145/PAX
+10. Skytrex Sg Congkak | RM70-125/PAX
+    <img src="./media/skytrex.png" width="720px"/>
 
 ## Indoor Activities
 
