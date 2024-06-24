@@ -1,17 +1,17 @@
 ## Indoor Like Outdoor Activities
 
-1. District 21 | [Tickets](https://d21.ioileisure.com.my/) | RM60/pax
+1. [District 21](https://www.ioidistrict21.com.my/activities/) @ IOI Putrajaya | [Tickets](https://d21.ioileisure.com.my/) | RM60/pax
 
  <img src="./media/district-21.png" width="720px"/>
 
-2. ESCAPE @ Paradigm Mall | [Tickets](https://escape-pj.thecoolmelon.com/) | RM91.48/pax
+2. [ESCAPE](https://www.escape.my/pj/activities) @ Paradigm Mall PJ | [Tickets](https://escape-pj.thecoolmelon.com/) | RM91.48/pax
 
  <img src="./media/escape-pj.png" width="720px"/>
 
 ## Outdoor Activities
 
 1. Painball
-2. [Taman Tugu Nature Education Program](https://tamantugu.my/things-to-do/nature-education-programme/) | RM65/PAX
+2. [Taman Tugu Nature Education Program](https://tamantugu.my/things-to-do/nature-education-programme/) | RM65/PAX (FULLY BOOKED)
 
  <img src="./media/tmn-tugu.png" width="720px"/>
  
@@ -19,7 +19,7 @@
 4. Hiking?
 5. Picnic @ Saujana or Taman Botani | Potluck/Lunch
 6. Horse Riding?
-7. Boat/[Cruise Tasik Putrajaya](https://www.cruisetasikputrajaya.com/about-ctp.html) | RM27-30/PAX 45min-2Hours
+7. Boat/[Cruise Tasik Putrajaya](https://www.cruisetasikputrajaya.com/about-ctp.html) | RM27-30/PAX 45min-90min
 8. Farm in the City | Pet animals, release stress | 
 9. Genting theme park | RM126-145/PAX
 10. Skytrex Sg Congkak | RM70-125/PAX
@@ -40,7 +40,7 @@
 
 ## Workshops
 
-Good Times workshop can offer RM5 discount per pax. Price shown below is original.
+Good Times workshop can offer RM5 discount per pax. Price shown below is without discount.
 
 1.  Good Times [Pottery](https://www.goodtimesdiy.my/pottery-studio/pottery-class/) | RM145/PAX
     <img src="./media/pottery.png" width="720px"/>
@@ -51,4 +51,4 @@ Good Times workshop can offer RM5 discount per pax. Price shown below is origina
 3.  Good Times [Baking](https://www.goodtimesdiy.my/bake-studio-menu/) | RM95-150/PAX
     <img src="./media/baking.png" width="720px"/>
 
-4.  Terrarium | Out of reach for now
+4.  Terrarium | (MAX 10PAX)
