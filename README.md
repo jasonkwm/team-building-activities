@@ -13,7 +13,7 @@
 1. Painball
 2. [Taman Tugu Nature Education Program](https://tamantugu.my/things-to-do/nature-education-programme/) | RM65/PAX (FULLY BOOKED)
 
- <img src="./media/tmn-tugu.png" width="720px"/>
+ <img src="./media/tugu.png" width="720px"/>
  
 3. Driving Range Golf | RM14-19/PAX not inclusive of clubs
 4. Hiking?
