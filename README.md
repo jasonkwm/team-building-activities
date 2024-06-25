@@ -43,6 +43,7 @@
 
 2. Bowling
 3. Escape Room (TBD)
+4. [VAR LIVE](https://www.klook.com/en-MY/activity/22730-var-live-theme-park-kuala-lumpur/?spm=Home.SearchSuggest_LIST&clickId=01a6ee38f8) myTOWN | RM43.5/PAX for 1 Game
 
 ## Workshops
 
