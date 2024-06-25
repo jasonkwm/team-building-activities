@@ -9,6 +9,7 @@
  <img src="./media/escape-pj.png" width="720px"/>
 
 3. [Laser Tag/Battle](https://www.laserbattle.com.my/)
+4. Climbing/Bouldering [Bump](https://www.bumpbouldering.com/pricing) | Jaya One, Pavilion Bukit Jalil | RM30/PAX
 
 ## Outdoor Activities
 
