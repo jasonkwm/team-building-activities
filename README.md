@@ -8,6 +8,8 @@
 
  <img src="./media/escape-pj.png" width="720px"/>
 
+3. [Laser Tag/Battle](https://www.laserbattle.com.my/)
+
 ## Outdoor Activities
 
 1. Painball
@@ -24,6 +26,9 @@
 9. Genting theme park | RM126-145/PAX
 10. Skytrex Sg Congkak | RM70-125/PAX
     <img src="./media/skytrex.png" width="720px"/>
+
+11. [Archery Tag](http://www.arena51.my/booking.html) | RM720/20PAX/1HOUR
+   <img src="./media/archer-tag.png" width="720px"/>
 
 ## Indoor Activities
 
